@@ -6,3 +6,19 @@ Official codebase for Pruning then Reweighting: Towards Data-Efficient Training 
 >[![Paper](https://img.shields.io/badge/Paper-arXiv?logo=arxiv&logoColor=%23B31B1B&label=arXiv&labelColor=%23f5f5dc&color=%23B31B1B)](https://arxiv.org/abs/2409.19128)
 
 Coming Soon.
+
+## Citation
+
+If you find our work useful for your project, please consider citing our paper.
+
+```
+@misc{li2024pruningreweightingdataefficienttraining,
+      title={Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models}, 
+      author={Yize Li and Yihua Zhang and Sijia Liu and Xue Lin},
+      year={2024},
+      eprint={2409.19128},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.19128}, 
+}
+```
