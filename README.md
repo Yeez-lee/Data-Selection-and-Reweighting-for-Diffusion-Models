@@ -13,13 +13,10 @@ Coming Soon.
 If you find our work useful for your project, please consider citing our paper.
 
 ```
-@misc{li2024pruningreweightingdataefficienttraining,
-      title={Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models}, 
-      author={Yize Li and Yihua Zhang and Sijia Liu and Xue Lin},
-      year={2024},
-      eprint={2409.19128},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.19128}, 
-}
+@INPROCEEDINGS{10888554,
+  author={Li, Yize and Zhang, Yihua and Liu, Sijia and Lin, Xue},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models}, 
+  year={2025}}
+
 ```
